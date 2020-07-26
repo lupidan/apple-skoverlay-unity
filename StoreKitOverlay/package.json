@@ -1,0 +1,23 @@
+{
+    "name": "com.lupidan.apple-skoverlay-unity-src",
+    "displayName": "Store Kit Overlay for Unity [Local Source]",
+    "version": "0.1.0",
+    "unity": "2018.3",
+    "description": "[Local Source]\nProvides a Unity bridge to use the SKOverlay to promote other apps natively",
+    "author": {
+        "name": "Daniel Lupiañez Casares",
+        "email": "daniel.lupianez.casares@gmail.com",
+        "url": "https://github.com/lupidan"
+    },
+    "keywords": [
+        "apple",
+        "iphone",
+        "ios",
+        "storekit",
+        "skoverlay",
+        "store",
+        "native",
+        "unity"
+    ],
+    "category": "Unity"
+}

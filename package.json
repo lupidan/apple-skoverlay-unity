@@ -1,6 +1,6 @@
 {
     "name": "com.lupidan.apple-skoverlay-unity",
-    "displayName": "Store Kit Overlay",
+    "displayName": "Store Kit Overlay for Unity",
     "version": "0.1.0",
     "unity": "2018.3",
     "description": "Provides a Unity bridge to use the SKOverlay to promote other apps natively",
