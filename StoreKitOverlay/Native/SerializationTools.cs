@@ -1,6 +1,6 @@
 namespace StoreKitOverlay.Native
 {
-    internal class SerializationTools
+    internal static class SerializationTools
     {
         internal static void FixSerializationForString(ref string originalString)
         {

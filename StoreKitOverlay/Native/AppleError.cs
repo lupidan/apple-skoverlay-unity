@@ -1,3 +1,7 @@
+using System;
+using StoreKitOverlay.Interfaces;
+using UnityEngine;
+
 namespace StoreKitOverlay.Native
 {
     [Serializable]
